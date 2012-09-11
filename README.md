@@ -1,4 +1,4 @@
 Socket-Epoll-Networking
 ====================
 
-Socket Epoll networking
+Socket epoll networking
